@@ -282,8 +282,8 @@
 	blood_overlay_type = "coat"
 
 /obj/item/clothing/suit/storage/marine/light/fluff/biolock //CKEY=biolock
-	name = "M3-L Custom"
-	desc = "A lighter, cut down version of the standard M3 pattern armor. This armor looks to have heavy modifications and a custom paint-job.  DONOR ITEM."
+	name = "Medic Armor"
+	desc = "An older model of medic armor. It is lightweight and sturdy, but less modular than current designs.  DONOR ITEM."
 	item_state = "bio_armor"
 	icon_state = "bio_armor"
 
@@ -640,8 +640,8 @@
 	desc = "Thought I walk through the valley in the shadow of death... Donor Item"
 
 /obj/item/clothing/head/helmet/marine/fluff/biolock //CKEY=biolock
-	name = "M10-Custom"
-	desc = "A custom M10 Pattern Helmet. The inside of the helmet has smaller, slicker pads. There is a built-in camera on the right side. DONOR ITEM"
+	name = "Medic Helmet"
+	desc = "An older model of medic helmet, this one has the name "Doc Crossman" etched within. DONOR ITEM"
 	icon_state = "bio_helmet"
 	item_state = "bio_helmet"
 
